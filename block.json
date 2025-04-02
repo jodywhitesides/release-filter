@@ -1,0 +1,10 @@
+{
+    "name": "custom/releasefilter",
+    "title": "Release Filter Dropdown",
+    "category": "text",
+    "icon": "filter",
+    "description": "A special block for filtering music release content on Jody Whitesides website.",
+    "apiVersion": 2,
+    "editorScript": "file:./index-filter.js",
+    "render": "file:./block.php"
+}
